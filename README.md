@@ -66,4 +66,4 @@ growth opportunities for junior staff.
 ## 👩‍💻 Author & Contact
 **Pratiksha Subhash Bhosale**
 - 📧 Email: pratikshabhosale1501.email@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/pratiksha-bhosale-6b433837b/)
+- 💼 LinkedIn: [linkedin.com/in/profile](https://www.linkedin.com/in/pratiksha-bhosale-6b433837b/)
