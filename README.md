@@ -59,7 +59,7 @@ growth opportunities for junior staff.
 ---
 
 ## 📸 Screenshot
-![HR Analytics Dashboard] (https://github.com/PratikshaBhosale8997/HR_Analytics_project_power_bi/blob/main/Snapshot_of_HR_Analytics_dashboard_power_bi.png)
+![HR Analytics Dashboard](https://github.com/PratikshaBhosale8997/HR_Analytics_project_power_bi/blob/main/Snapshot_of_HR_Analytics_dashboard_power_bi.png)
 
 ---
 
